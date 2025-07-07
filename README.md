@@ -4,6 +4,7 @@ Welcome to a collection of modular, plug-and-play Python solutions designed to s
 Each folder in this repository encapsulates a dedicated, independent use case that you can run or adapt to fit your pipeline needs.
 
 🗂️ What’s Inside
+
 📦 Convert_Data/ — Export DB Tables to Multiple Formats
 Extracts data from a MySQL database and outputs it in various formats:
 
