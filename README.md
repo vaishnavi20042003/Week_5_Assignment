@@ -53,12 +53,12 @@ Event-based triggers — React to file arrivals or database updates in real time
 
 
 
-👥 people.sql — Sample Schema for Demo Purposes
+👥 customer.sql — Sample Schema for Demo Purposes
 Includes SQL for creating and populating a basic People table used in multiple demos.
 
 To use:
 
-SOURCE people.sql;
+SOURCE customer.sql;
 📌 Perfect for setting up a quick test or example run.
 
 
